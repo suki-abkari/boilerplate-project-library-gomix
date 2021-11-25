@@ -30,17 +30,17 @@ All 10 functional tests required are complete and passing.
 ## Tests
 
 - TODO
-
-1. POST /api/books with title => create book object/expect book object <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-2. Test POST /api/books with no title given <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-3. Test GET /api/books <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-4. Test GET /api/books/[id] with id not in db <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-5. Test GET /api/books/[id] with valid id in db <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-6. Test POST /api/books/[id] with comment <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-7. Test POST /api/books/[id] without comment field <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-8. Test POST /api/books/[id] with comment, id not in db <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-9. Test DELETE /api/books/[id] with valid id in db <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-10. Test DELETE /api/books/[id] with id not in db <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
+1. #example Test GET /api/books <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+2. Test POST /api/books with title => create book object/expect book object <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+3. Test POST /api/books with no title given <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+4. Test GET /api/books <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+5. Test GET /api/books/[id] with id not in db <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+6. Test GET /api/books/[id] with valid id in db <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
+7. Test POST /api/books/[id] with comment <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
+8. Test POST /api/books/[id] without comment field <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
+9. Test POST /api/books/[id] with comment, id not in db <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
+10. Test DELETE /api/books/[id] with valid id in db <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+11. Test DELETE /api/books/[id] with id not in db <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
 
 ### <a>[Demo](https://boilerplate-project-library.sukainaabkari.repl.co)</a>
