@@ -15,7 +15,7 @@
 
 7. You can send a DELETE request to /api/books to delete all books in the database. The returned response will be the string 'complete delete successful if successful. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
-All 10 functional tests required are complete and passing.
+8. All 10 functional tests required are complete and passing.
 
 ### Requirement
 <code>npm install mongodb@latest</code> && <code>npm install mongoose@latest</code> <br><br>
