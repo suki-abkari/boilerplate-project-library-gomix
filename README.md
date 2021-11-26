@@ -43,9 +43,6 @@
 
 
 ### <a>[Demo](https://boilerplate-project-library.sukainaabkari.repl.co)</a>
-
-<img src="public\img\library_microservice1.gif" />
-
 ## <a href="https://www.freecodecamp.org/suki-220" target="_blank"><img src="https://img.icons8.com/external-sbts2018-lineal-color-sbts2018/30/000000/external-developer-women-profession-sbts2018-lineal-color-sbts2018.png"/></a> Authors
 <!-- https://img.icons8.com/external-sbts2018-lineal-color-sbts2018/150/000000/external-developer-women-profession-sbts2018-lineal-color-sbts2018.png -->
 Sukaina Abkari & FCC
