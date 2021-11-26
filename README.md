@@ -5,7 +5,7 @@
 
 1. You can send a POST request to /api/books with title as part of the form data to add a book. The returned response will be an object with the title and a unique _id as keys. If title is not included in the request, the returned response should be the string missing required field title. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
-2. You can send a GET request to /api/books and receive a JSON response representing all the books. The JSON response will be an array of objects with each object (book) containing title, _id, and commentcount properties. 
+2. You can send a GET request to /api/books and receive a JSON response representing all the books. The JSON response will be an array of objects with each object (book) containing title, _id, and commentcount properties. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
 3. You can send a GET request to /api/books/{_id} to retrieve a single object of a book containing the properties title, _id, and a comments array (empty array if no comments present). If no book is found, return the string no book exists. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
@@ -15,7 +15,7 @@
 
 7. You can send a DELETE request to /api/books to delete all books in the database. The returned response will be the string 'complete delete successful if successful. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
-8. All 10 functional tests required are complete and passing.
+8. All 10 functional tests required are complete and passing. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
 ### Requirement
 <code>npm install mongodb@latest</code> && <code>npm install mongoose@latest</code> <br><br>
@@ -34,10 +34,10 @@
 2. Test POST /api/books with title => create book object/expect book object <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 3. Test POST /api/books with no title given <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 4. Test GET /api/books <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
-6. Test GET /api/books/[id] with valid id in db <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-7. Test POST /api/books/[id] with comment <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-8. Test POST /api/books/[id] without comment field <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
-9. Test POST /api/books/[id] with comment, id not in db <!--<img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>-->
+6. Test GET /api/books/[id] with valid id in db <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+7. Test POST /api/books/[id] with comment <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+8. Test POST /api/books/[id] without comment field <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+9. Test POST /api/books/[id] with comment, id not in db <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 10. Test DELETE /api/books/[id] with valid id in db <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 11. Test DELETE /api/books/[id] with id not in db <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
